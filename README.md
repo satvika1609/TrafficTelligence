@@ -10,31 +10,6 @@ This project predicts the estimated traffic volume on a road based on weather co
 - Train a regression model to predict traffic volume.
 - Build and deploy a Flask web app that allows users to input real-time values and receive predictions.
 
-## 📁 Project Structure
-
-
-TrafficTelligence/
-│
-├── Flask/
-│   ├── app.py
-│   ├── model.pkl
-│   ├── encoder.pkl
-│   ├── scale.pkl
-│   ├── imputer.pkl
-│   └── templates/
-│       ├── index.html
-│       ├── chance.html
-│       └── noChance.html
-│
-├── IBM/
-│   └── traffic\_volume\_ibm\_scoring\_endpoint.ipynb
-│
-├── traffic volume.ipynb
-├── traffic volume.csv
-├── Requirements.txt
-└── Traffic volume estimation.docx
-
-
 ## 🛠️ Technologies Used
 
 - Python (Pandas, NumPy, Scikit-learn, Joblib)
