@@ -44,6 +44,7 @@ This project predicts the estimated traffic volume on a road based on weather co
 * Temperature, Rain, Snow values
 * Weather condition
 * Date and time (year, month, day, hour, minute, second)
+* And other required values
 
 ## 📦 Output
 
